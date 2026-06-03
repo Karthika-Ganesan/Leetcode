@@ -13,4 +13,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0053-maximum-subarray) |
+| [0837-new-21-game](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0837-new-21-game) |
+## Math
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0837-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0837-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
