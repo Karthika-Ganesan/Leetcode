@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0053-maximum-subarray) |
+| [0414-third-maximum-number](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Karthika-Ganesan/Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
